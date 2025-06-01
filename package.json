@@ -1,0 +1,8 @@
+{
+    "name": "joy-css",
+    "version": "1.0.0",
+    "description": "Framework CSS ultra-compacto",
+    "scripts": {
+      "build": "node build.js"
+    }
+  }

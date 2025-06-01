@@ -1,0 +1,25 @@
+/* Border radius */
+.rd1 { border-radius: 4px; }
+.rd2 { border-radius: 8px; }
+.rd3 { border-radius: 12px; }
+.rd4 { border-radius: 16px; }
+.rdf { border-radius: 9999px; }
+
+/* Shadows */
+.sh1 { box-shadow: 0 1px 3px rgba(0,0,0,0.12); }
+.sh2 { box-shadow: 0 4px 6px rgba(0,0,0,0.12); }
+.sh3 { box-shadow: 0 10px 15px rgba(0,0,0,0.12); }
+
+/* Borders */
+.bd1 { border: 1px solid #e5e7eb; }
+.bd2 { border: 2px solid #e5e7eb; }
+
+/* Cursor */
+.cur-p { cursor: pointer; }
+
+/* Overflow */
+.ovf-h { overflow: hidden; }
+
+/* Position */
+.pos-r { position: relative; }
+.pos-a { position: absolute; }

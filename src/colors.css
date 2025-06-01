@@ -1,0 +1,21 @@
+/* Backgrounds cinza */
+.b-w { background-color: white; }
+.b-b { background-color: black; }
+.b-g1 { background-color: #f8f9fa; }
+.b-g2 { background-color: #e9ecef; }
+.b-g3 { background-color: #dee2e6; }
+.b-g5 { background-color: #6c757d; }
+.b-g8 { background-color: #343a40; }
+
+/* Backgrounds coloridos */
+.b-bl5 { background-color: #3b82f6; }
+.b-rd5 { background-color: #ef4444; }
+.b-gn5 { background-color: #10b981; }
+.b-yl5 { background-color: #f59e0b; }
+
+/* Cores de texto */
+.t-w { color: white; }
+.t-b { color: black; }
+.t-g5 { color: #6c757d; }
+.t-g6 { color: #495057; }
+.t-g8 { color: #343a40; }

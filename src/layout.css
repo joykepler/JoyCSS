@@ -1,0 +1,53 @@
+/* Display flex */
+.f { display: flex; }
+.f-col { flex-direction: column; }
+
+/* Flex combinações mais usadas */
+.f-c-c { 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+}
+
+.f-sb-c { 
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+}
+
+.f-fs-c { 
+  display: flex; 
+  justify-content: flex-start; 
+  align-items: center; 
+}
+
+.f-fe-c { 
+  display: flex; 
+  justify-content: flex-end; 
+  align-items: center; 
+}
+
+/* Justify Content individuais */
+.jc-c { justify-content: center; }
+.jc-fs { justify-content: flex-start; }
+.jc-fe { justify-content: flex-end; }
+.jc-sb { justify-content: space-between; }
+.jc-sa { justify-content: space-around; }
+
+/* Align Items individuais */
+.ai-c { align-items: center; }
+.ai-s { align-items: flex-start; }
+.ai-e { align-items: flex-end; }
+
+/* Grid simples */
+.g { display: grid; }
+.g-2 { grid-template-columns: repeat(2, 1fr); }
+.g-3 { grid-template-columns: repeat(3, 1fr); }
+.g-4 { grid-template-columns: repeat(4, 1fr); }
+
+/* Gap */
+.gap1 { gap: 4px; }
+.gap2 { gap: 8px; }
+.gap3 { gap: 12px; }
+.gap4 { gap: 16px; }
+.gap6 { gap: 24px; }
