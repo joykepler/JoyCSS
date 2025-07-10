@@ -1,4 +1,4 @@
-# JoyCSS
+# JoyCSS (Em construção 🚧)
 
 > Framework CSS ultra-compacto que traz alegria ao desenvolvimento web ✨
 
